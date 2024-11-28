@@ -1,4 +1,5 @@
 # Trabajo Práctico de React
+by:NavartaLeonel
 Este trabajo practico Utiliza `react+vite+typescript`
 #### Descripcion
 +  En este trabajo utilizamos un formulario para cargar productos y luego mostramos estos productos debajo
