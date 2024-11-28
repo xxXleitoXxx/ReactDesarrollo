@@ -4,7 +4,7 @@ Este trabajo practico Utiliza `react+vite+typescript`
 +  En este trabajo utilizamos un formulario para cargar productos y luego mostramos estos productos debajo
 + dentro de la carpeta public hay imagenes como ejemplo
 #### InstruccionesParaEjecutar
-+ tener node y viteinstalado
++ tener `node` y `vite` instalado
 + ejecutar el comando en consola de visual o bash npm -i install para instalar las dependencias necesarias
 + ejecutar npm run dev para correr el proyecto
 ```BASH
