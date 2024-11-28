@@ -1,5 +1,4 @@
 # Trabajo Práctico de React
-by:NavartaLeonel
 Este trabajo practico Utiliza `react+vite+typescript`
 #### Descripcion
 +  En este trabajo utilizamos un formulario para cargar productos y luego mostramos estos productos debajo
@@ -8,7 +7,7 @@ Este trabajo practico Utiliza `react+vite+typescript`
 + tener `node` y `vite` instalado
 + ejecutar el comando en consola de visual o bash npm -i install para instalar las dependencias necesarias
 + ejecutar npm run dev para correr el proyecto
-```BASH
+``` bash 
 
   VITE v5.4.9  ready in 191 ms
 
@@ -19,3 +18,4 @@ Este trabajo practico Utiliza `react+vite+typescript`
     Hacer click en el link que aparezca
     A disfrutar!!!
 
+by:NavartaLeonel
