@@ -5,8 +5,8 @@ Este trabajo practico Utiliza `react+vite+typescript`
 + dentro de la carpeta public hay imagenes como ejemplo
 #### InstruccionesParaEjecutar
 + tener `node` y `vite` instalado
-+ ejecutar el comando en consola de visual o bash npm -i install para instalar las dependencias necesarias
-+ ejecutar npm run dev para correr el proyecto
++ ejecutar el comando en consola de visual o bash `npm install` para instalar las dependencias necesarias
++ ejecutar `npm run dev` para correr el proyecto
 ``` bash 
 
   VITE v5.4.9  ready in 191 ms
